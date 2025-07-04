@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012114127392",
+    "project_id": "samplenotifblazorhybrid",
+    "storage_bucket": "samplenotifblazorhybrid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012114127392:android:bd1672f24e949a74c99a45",
+        "android_client_info": {
+          "package_name": "com.companyname.notifhybrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO390jQheziNZ08f2KiXQ4JtCmTsQOpOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
